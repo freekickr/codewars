@@ -1,5 +1,3 @@
-package RevRot;
-
 /*
 The input is a string str of digits. Cut the string into chunks (a chunk here is a substring
         of the initial string) of size sz (ignore the last chunk if its size is less than sz).

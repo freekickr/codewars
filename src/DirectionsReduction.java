@@ -1,6 +1,6 @@
-package DirectionReduction;
-
 /*
+Directions Reduction
+
 Once upon a time, on a way through the old wild west,
 a man was given directions to go from one point to another.
 The directions were "NORTH", "SOUTH", "WEST", "EAST".
@@ -24,7 +24,7 @@ import java.util.Arrays;
 import java.util.List;
 
 
-public class DirRed {
+public class DirectionsReduction {
     public static String[] dirReduc(String[] arr) {
         // Your code here.
         List<String> directions = new ArrayList<>(Arrays.asList(arr));

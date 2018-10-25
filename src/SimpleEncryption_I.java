@@ -1,5 +1,3 @@
-package sCrypto_aSplit;
-
 import java.util.ArrayList;
 import java.util.List;
 
@@ -19,7 +17,7 @@ import java.util.List;
 
 //        ПЕРЕДЕЛАТЬ ЧЕРЕЗ STRINGBUILDER (УБРАТЬ ВСЕ LIST'Ы)!!!! Код сократится в два раза (минимум)
 
-public class sCrypto_aSplit {
+public class SimpleEncryption_I {
 
     private static boolean checkInput(String text, int n) {
         if (text != null && !text.isEmpty() && n > 0)
