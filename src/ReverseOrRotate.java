@@ -27,7 +27,6 @@ public class ReverseOrRotate {
         // your code
         if (strng.isEmpty() || sz <= 0 || strng.length() < sz)
             return "";
-
         return null;
     }
 

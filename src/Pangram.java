@@ -9,6 +9,7 @@ import java.util.List;
 
 public class Pangram {
 
+    //can be done using regex
     private static boolean check(String sentence){
         //code
         List<Character> alphabet = new ArrayList<>(26);
